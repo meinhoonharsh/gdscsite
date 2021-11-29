@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Web Dev",
+        "icon":"cat1.png",
+        "description":"Learn how to build a modern portfolio website with HTML5, CSS3, JavaScript and Bootstrap.",
+        "bg":"e3f2fd"
+    },
+    {
+        "name":"App Dev",
+        "icon":"cat2.png",
+        "description":"Learn how to build an Android app with Java and Android Studio. Addigng two words ",
+        "bg":"ffebee"
+    },
+    {
+        "name":"BlockChain",
+        "icon":"cat3.png",
+        "description":"Learn how to build a decentralized application with Ethereum and Solidity.",
+        "bg":"fff8e1"
+    }
+]

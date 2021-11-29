@@ -1,0 +1,30 @@
+.titleline{
+    margin-bottom: 3em;
+    text-align: center;
+    width: 100%;
+}
+.titleline span{
+    text-decoration: none;
+    font-family: 'Montserrat';
+    margin-bottom: 2em;
+    text-align: center;    
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 1.4;
+    color: #383B61;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100%;
+    margin-bottom: 3em;
+}
+.logo-item{
+    padding: 10px 10px;
+}
+.logo-container img {
+    max-height: 50px;
+}
