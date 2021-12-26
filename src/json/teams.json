@@ -6,22 +6,72 @@
     },
     {
         "name":"Samkit Jain",
-        "position":"GDSC Lead",
+        "position":"Co-Lead/Cyber Security",
         "image":"f2.png"
     },
     {
-        "name":"Samkit Jain",
-        "position":"GDSC Lead",
+        "name":"Sonali Tomar",
+        "position":"Women In Tech",
         "image":"f4.png"
     },
     {
-        "name":"Samkit Jain",
-        "position":"GDSC Lead",
+        "name":"Apoorv Pandey",
+        "position":"Blockchain",
         "image":"f3.png"
     },
     {
-        "name":"Samkit Jain",
-        "position":"GDSC Lead",
+        "name":"Geetansh Agrawal",
+        "position":"App Development",
+        "image":"f2.png"
+    },
+    {
+        "name":"Shourya Singh Rathore",
+        "position":"UI/ UX",
+        "image":"f2.png"
+    },
+    {
+        "name":"Pranjal Goyal",
+        "position":"App Development",
+        "image":"f2.png"
+    },
+    {
+        "name":"Utkarsh Pathak",
+        "position":"Web Development",
+        "image":"f2.png"
+    },
+    {
+        "name":"Harsh Vishwakarma",
+        "position":"Web Development",
+        "image":"f2.png"
+    },
+    {
+        "name":"Lakshya Shrivastava",
+        "position":"ML/Cloud",
+        "image":"f2.png"
+    },
+    {
+        "name":"Ankur Gupta",
+        "position":"ML/Cloud",
+        "image":"f2.png"
+    },
+    {
+        "name":"Mandvi Singh",
+        "position":"Content and Marketing",
+        "image":"f2.png"
+    },
+    {
+        "name":"Anuj Marskole",
+        "position":"Designning",
+        "image":"f2.png"
+    },
+    {
+        "name":"Pakhi Bhargava",
+        "position":"Content and Marketing",
+        "image":"f2.png"
+    },
+    {
+        "name":"Srajal Sahu",
+        "position":"Designing",
         "image":"f2.png"
     }
 ]
